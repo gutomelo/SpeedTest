@@ -1,6 +1,6 @@
   #                                          Monitoramento da Velocidade da internet :signal_strength:
 
-> Este projeto é um Fork do projeto de Bárbara Guerbas no git: https://github.com/bguerbas/SpeedTest
+> Este é um Fork do projeto de Bárbara Guerbas no git: https://github.com/bguerbas/SpeedTest
 
 
 > Status do Projeto: :heavy_check_mark: (Primeira etapa pronto)
