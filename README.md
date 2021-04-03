@@ -22,7 +22,7 @@
 ## Descrição do projeto :file_folder:
 
 <p align="justify">
- Este fork tem como ideal fazer os testes de velocidade através do [SpeedTest CLI](https://www.speedtest.net/pt/apps/cli) , que é uma versão do SpeedTest para desenvolvedor. O SpeedTest CLI é um aplicativo desenvolvido para todas as plataformas: MacOs, Linux, FreeBSD e Windows.
+Este fork tem como ideal fazer os testes de velocidade através do [SpeedTest CLI](https://www.speedtest.net/pt/apps/cli) , que é uma versão do SpeedTest para desenvolvedor. O SpeedTest CLI é um aplicativo desenvolvido para todas as plataformas: MacOs, Linux, FreeBSD e Windows.
 Portanto o SpeedTest CLI tem que ser instalado na sua máquina de teste, ou até mesmo num RaspBerry Pi.
 
 O script em Python desenvolvido por mim consiste em coletar as informações retornadas em formato Json do SpeedTest CLI no SHELL (no meu caso, testado no Linux distribuição Fedora 33 e Python 3.9.2) que armazena num dicionário e vai gravando num arquivo de log na pasta "/log" de acordo com a coleta das informações. Na pasta log tem alguns exemplos dessa coleta. 
@@ -32,7 +32,6 @@ O script em Python desenvolvido por mim consiste em coletar as informações ret
 O SpeedTest CLI  tem a possibilidade de testar com os servidores próximos a você, através do comando "speedtest -L", No meu caso, ele mostrou 10 servidores próximos a mim na cidade de Feira de Santana.
 
 O script Python ele testa a velocidade de conexão tanto de Download e Upload, mede ping e jitter em cada servidor e no final ele tira a média de todos os valores. No meu caso a média das conexões dos 10 servidores e faz todo o procedimento novamente após 5 minutos, gerando um novo arquivo de log. Esse valor pode ser ajustado no Time Sleep.
-
 </p>
 
 
