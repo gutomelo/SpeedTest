@@ -1,0 +1,107 @@
+Os 10 servidores próximos a você:
+Server: 1, Id: 14989, Provedor: SpeedWan Internet, Cidade: Feira de Santana
+Server: 2, Id: 20999, Provedor: LinkNetProvedor, Cidade: Feira de Santana
+Server: 3, Id: 20190, Provedor: Bel infonet, Cidade: Feira de Santana
+Server: 4, Id: 14243, Provedor: JSInternet, Cidade: Feira de Santana
+Server: 5, Id: 22238, Provedor: Rede Digital FSA, Cidade: Feira de Santana
+Server: 6, Id: 23611, Provedor: G7 Provedor, Cidade: Feira De Santana
+Server: 7, Id: 14179, Provedor: Nobre Network, Cidade: Feira de Santana
+Server: 8, Id: 23663, Provedor: Net Novo Tempo, Cidade: Feira De Santana
+Server: 9, Id: 14178, Provedor: ConectMais Provedor de Internet, Cidade: Feira de Santana
+Server: 10, Id: 21450, Provedor: IGMAX, Cidade: Feira de Santana
+
+>>>>>> Testando Conexão com o Server: 1, Id: 14989, Provedor: SpeedWan Internet, Cidade: Feira de Santana <<<<<<
+Seu Provedor de Internet: TIM LIVE
+Horário: 02/04/2021 20:30
+Ping: 104.43 ms
+Jitter: 1.412 ms
+Download: 168.27 Mb/s
+Upload: 55.47 Mb/s
+Resultado no SpeedTest: https://www.speedtest.net/result/c/2ad91312-4271-4625-9e7e-1413bf544c82
+
+>>>>>> Testando Conexão com o Server: 2, Id: 20999, Provedor: LinkNetProvedor, Cidade: Feira de Santana <<<<<<
+Seu Provedor de Internet: TIM LIVE
+Horário: 02/04/2021 20:30
+Ping: 123.283 ms
+Jitter: 1.393 ms
+Download: 162.9 Mb/s
+Upload: 2.59 Mb/s
+Resultado no SpeedTest: https://www.speedtest.net/result/c/3f168483-9d59-4c58-a46e-34f199afc7b3
+
+>>>>>> Testando Conexão com o Server: 3, Id: 20190, Provedor: Bel infonet, Cidade: Feira de Santana <<<<<<
+Seu Provedor de Internet: TIM LIVE
+Horário: 02/04/2021 20:30
+Ping: 115.7 ms
+Jitter: 1.13 ms
+Download: 58.02 Mb/s
+Upload: 3.23 Mb/s
+Resultado no SpeedTest: https://www.speedtest.net/result/c/d5685a30-c3b4-4340-9eaf-990f3bce46cd
+
+>>>>>> Testando Conexão com o Server: 4, Id: 14243, Provedor: JSInternet, Cidade: Feira de Santana <<<<<<
+Seu Provedor de Internet: TIM LIVE
+Horário: 02/04/2021 20:30
+Ping: 105.204 ms
+Jitter: 4.658 ms
+Download: 105.92 Mb/s
+Upload: 64.68 Mb/s
+Resultado no SpeedTest: https://www.speedtest.net/result/c/df8f84ec-2b48-4f42-afa8-87cda30b2fdc
+
+>>>>>> Testando Conexão com o Server: 5, Id: 22238, Provedor: Rede Digital FSA, Cidade: Feira de Santana <<<<<<
+Seu Provedor de Internet: TIM LIVE
+Horário: 02/04/2021 20:30
+Ping: 108.566 ms
+Jitter: 162.193 ms
+Download: 30.38 Mb/s
+Upload: 2.83 Mb/s
+Resultado no SpeedTest: https://www.speedtest.net/result/c/2e263ea9-10be-4973-93c4-4e2f0f14b5fb
+
+>>>>>> Testando Conexão com o Server: 6, Id: 23611, Provedor: G7 Provedor, Cidade: Feira De Santana <<<<<<
+Seu Provedor de Internet: TIM LIVE
+Horário: 02/04/2021 20:30
+Ping: 83.582 ms
+Jitter: 2.188 ms
+Download: 169.54 Mb/s
+Upload: 64.66 Mb/s
+Resultado no SpeedTest: https://www.speedtest.net/result/c/4eed4819-f551-4630-a242-e2772f3942f6
+
+>>>>>> Testando Conexão com o Server: 7, Id: 14179, Provedor: Nobre Network, Cidade: Feira de Santana <<<<<<
+Seu Provedor de Internet: TIM LIVE
+Horário: 02/04/2021 20:30
+Ping: 111.266 ms
+Jitter: 2.166 ms
+Download: 167.49 Mb/s
+Upload: 3.65 Mb/s
+Resultado no SpeedTest: https://www.speedtest.net/result/c/5161f60c-7c6e-46ca-8c0b-966232f2fd66
+
+>>>>>> Testando Conexão com o Server: 8, Id: 23663, Provedor: Net Novo Tempo, Cidade: Feira De Santana <<<<<<
+Seu Provedor de Internet: TIM LIVE
+Horário: 02/04/2021 20:30
+Ping: 128.423 ms
+Jitter: 3.108 ms
+Download: 121.92 Mb/s
+Upload: 3.81 Mb/s
+Resultado no SpeedTest: https://www.speedtest.net/result/c/dbbe93a0-fd15-4048-8810-c4e6f40c2d4e
+
+>>>>>> Testando Conexão com o Server: 9, Id: 14178, Provedor: ConectMais Provedor de Internet, Cidade: Feira de Santana <<<<<<
+Seu Provedor de Internet: TIM LIVE
+Horário: 02/04/2021 20:30
+Ping: 103.974 ms
+Jitter: 0.896 ms
+Download: 164.79 Mb/s
+Upload: 64.29 Mb/s
+Resultado no SpeedTest: https://www.speedtest.net/result/c/bb8f5660-5c35-4b01-9a3c-3a6c346bc02f
+
+>>>>>> Testando Conexão com o Server: 10, Id: 21450, Provedor: IGMAX, Cidade: Feira de Santana <<<<<<
+Seu Provedor de Internet: TIM LIVE
+Horário: 02/04/2021 20:30
+Ping: 109.727 ms
+Jitter: 0.233 ms
+Download: 45.87 Mb/s
+Upload: 2.68 Mb/s
+Resultado no SpeedTest: https://www.speedtest.net/result/c/a59c6118-5df9-447a-afbf-bab7390aba8f
+
+>>> Calculando a média da conexão! <<<
+A média de Ping foi: 109.59 ms
+A média de Jitter foi: 26.36 ms
+A média de Download foi: 119.34 Mb/s
+A média de Upload foi: 27.54 Mb/s
