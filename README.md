@@ -40,7 +40,8 @@ O script Python ele testa a velocidade de conexão tanto de Download e Upload, m
 ## Pré-requisitos :pushpin:
 
 ```
-Ter o SpeedTest CLI instalado na máquina de testes, seguir orientação do site: https://www.speedtest.net/pt/apps/cli
+Ter o SpeedTest CLI instalado na máquina de testes,
+seguir orientação do site: https://www.speedtest.net/pt/apps/cli
 ```
 ```
 Ter o Python 3 ou superior instalado.
